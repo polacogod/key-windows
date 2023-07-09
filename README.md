@@ -13,17 +13,17 @@ python3 -m venv myenv
 
 Activate the virtual environment:
 
-bash
+(bash)
 
-source myenv/bin/activate
+(source myenv/bin/activate)
 
-Install the dependencies:
+(Install the dependencies:)
 
-pip install dependency_name
+(pip install dependency_name)
 
-Run the program:
+(Run the program:)
 
-python program_name.py
+(python mian.py)
 
 
   Windows:
@@ -33,16 +33,16 @@ python program_name.py
     Navigate to the location of the program file.
     Create a virtual environment:
 
-python -m venv myenv
+(python -m venv myenv)
 
 Activate the virtual environment:
 
-myenv\Scripts\activate
+(myenv\Scripts\activate)
 
-Install the dependencies:
+(Install the dependencies:)
 
-pip install dependency_name
+(pip install dependency_name)
 
-Run the program:
+(Run the program:
 
-python program_name.py
+(python main.py)
