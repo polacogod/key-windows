@@ -52,7 +52,7 @@ def mostrar_claves_windows(version):
     else:
         print("Opción no válida")
 
-# Función principal
+
 def main():
     while True:
         mostrar_menu()
